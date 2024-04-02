@@ -1,0 +1,102 @@
+file,speaker,label
+0.wav,Alec Guinness,spoof
+1.wav,Alec Guinness,spoof
+2.wav,Barack Obama,spoof
+3.wav,Alec Guinness,spoof
+4.wav,Christopher Hitchens,bona-fide
+5.wav,Ayn Rand,bona-fide
+6.wav,Barack Obama,spoof
+7.wav,Donald Trump,bona-fide
+8.wav,Donald Trump,bona-fide
+9.wav,Alec Guinness,bona-fide
+10.wav,Bernie Sanders,spoof
+11.wav,Christopher Hitchens,bona-fide
+12.wav,Calvin Coolidge,bona-fide
+13.wav,Alec Guinness,spoof
+14.wav,Barack Obama,bona-fide
+15.wav,Bernie Sanders,spoof
+16.wav,Winston Churchill,spoof
+17.wav,Winston Churchill,spoof
+18.wav,Donald Trump,bona-fide
+19.wav,Bob Ross,spoof
+20.wav,Donald Trump,bona-fide
+21.wav,Richard Nixon,spoof
+22.wav,2Pac,bona-fide
+23.wav,Donald Trump,bona-fide
+24.wav,Ronald Reagan,spoof
+25.wav,Ayn Rand,spoof
+26.wav,JFK,bona-fide
+27.wav,Arnold Schwarzenegger,bona-fide
+28.wav,Nick Offerman,bona-fide
+29.wav,Bill Clinton,bona-fide
+30.wav,Martin Luther King,bona-fide
+31.wav,Bill Burr,spoof
+32.wav,Ronald Reagan,spoof
+33.wav,Bill Clinton,bona-fide
+34.wav,Alec Guinness,spoof
+35.wav,Ayn Rand,spoof
+36.wav,Christopher Hitchens,bona-fide
+37.wav,Ronald Reagan,bona-fide
+38.wav,Barack Obama,bona-fide
+39.wav,Christopher Hitchens,bona-fide
+40.wav,Christopher Hitchens,spoof
+41.wav,Donald Trump,spoof
+42.wav,Bernie Sanders,spoof
+43.wav,Ayn Rand,spoof
+44.wav,Bernie Sanders,bona-fide
+45.wav,Mark Zuckerberg,bona-fide
+46.wav,Alec Guinness,bona-fide
+47.wav,Alec Guinness,spoof
+48.wav,Richard Nixon,bona-fide
+49.wav,Barack Obama,bona-fide
+50.wav,George W. Bush,spoof
+51.wav,Dave Chappelle,bona-fide
+52.wav,Bernie Sanders,bona-fide
+53.wav,Boris Johnson,bona-fide
+54.wav,Martin Luther King,bona-fide
+55.wav,Bill Clinton,bona-fide
+56.wav,JFK,bona-fide
+57.wav,Alan Watts,spoof
+58.wav,Mark Zuckerberg,bona-fide
+59.wav,Louis C.K.,spoof
+60.wav,The Notorious B.I.G.,spoof
+61.wav,Alec Guinness,spoof
+62.wav,Ronald Reagan,spoof
+63.wav,Ayn Rand,spoof
+64.wav,Ayn Rand,bona-fide
+65.wav,Mark Zuckerberg,spoof
+66.wav,Barack Obama,bona-fide
+67.wav,Bernie Sanders,bona-fide
+68.wav,Bernie Sanders,spoof
+69.wav,Bernie Sanders,spoof
+70.wav,Alan Watts,bona-fide
+71.wav,Jimmy Carter,bona-fide
+72.wav,Barack Obama,bona-fide
+73.wav,Bill Clinton,bona-fide
+74.wav,Christopher Hitchens,bona-fide
+75.wav,Winston Churchill,bona-fide
+76.wav,Bill Clinton,spoof
+77.wav,Alec Guinness,bona-fide
+78.wav,Dwight Eisenhower,bona-fide
+79.wav,2Pac,spoof
+80.wav,Donald Trump,bona-fide
+81.wav,Bernie Sanders,spoof
+82.wav,Alec Guinness,bona-fide
+83.wav,Bill Clinton,bona-fide
+84.wav,Bernie Sanders,bona-fide
+85.wav,Bernie Sanders,bona-fide
+86.wav,Alec Guinness,bona-fide
+87.wav,Alec Guinness,bona-fide
+88.wav,Ronald Reagan,bona-fide
+89.wav,Barack Obama,bona-fide
+90.wav,Donald Trump,bona-fide
+91.wav,Bill Clinton,spoof
+92.wav,Mitch Hedberg,spoof
+93.wav,Ayn Rand,bona-fide
+94.wav,Barack Obama,bona-fide
+95.wav,Bill Clinton,bona-fide
+96.wav,Alec Guinness,bona-fide
+97.wav,Barack Obama,bona-fide
+98.wav,Bernie Sanders,bona-fide
+99.wav,Bill Burr,bona-fide
+100.wav,Alexandria Ocasio-Cortez,bona-fide
